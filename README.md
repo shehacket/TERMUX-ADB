@@ -1,2 +1,2 @@
-# randi
-randikabachcha
+# TERMUX-ADB 
+LOVE TO HAVE THIS SCRIPT
